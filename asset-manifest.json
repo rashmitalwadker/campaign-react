@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/campaign-react/static/css/main.77882ada.css",
+    "main.js": "/campaign-react/static/js/main.0bd1eb9a.js",
+    "static/js/787.50369d91.chunk.js": "/campaign-react/static/js/787.50369d91.chunk.js",
+    "index.html": "/campaign-react/index.html",
+    "main.77882ada.css.map": "/campaign-react/static/css/main.77882ada.css.map",
+    "main.0bd1eb9a.js.map": "/campaign-react/static/js/main.0bd1eb9a.js.map",
+    "787.50369d91.chunk.js.map": "/campaign-react/static/js/787.50369d91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77882ada.css",
+    "static/js/main.0bd1eb9a.js"
+  ]
+}
